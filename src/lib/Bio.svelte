@@ -36,19 +36,19 @@
     </p>
     <p class="pt-8 text-sm text-left">
         I'm an engineer & designer specializing in native iOS and Web
-        experiences. I'm the founder of Polyhedra, the creator of <a
+        experiences. I'm the founder of Polyhedra. The creator of <a
             href="https://brentbrinkley.medium.com/introducing-form-a-new-music-language-f86c9884dd53"
             class="text-yellow-500">Form</a
         >
-        music language along with the
+        music language and the
         <a
             href="https://apps.apple.com/us/app/formkey/id1535350561"
             class="text-yellow-500">Formkey</a
         >
-        App, and a proud
+        App. I'm also a proud
         <a
             href="https://www.apple.com/newsroom/2021/02/apple-launches-inaugural-entrepreneur-camp-for-black-founders-and-developers/"
             class="text-yellow-500">Alumnus</a
-        > of Apple's Entreprenuer Camp.
+        > of Apple's Entreprenuer Program.
     </p>
 </div>
