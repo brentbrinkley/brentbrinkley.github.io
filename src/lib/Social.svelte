@@ -10,7 +10,7 @@
 >
     <a class="link" href={twitter} data-tippy-content="@twitter_handle"
         ><svg
-            class="h-6 fill-current text-gray-400 hover:text-yellow-400"
+            class="h-6 fill-current text-gray-500 hover:text-yellow-400"
             role="img"
             viewBox="0 0 24 24"
             xmlns="http://www.w3.org/2000/svg"
@@ -21,7 +21,7 @@
     >
     <a class="link" href={git} data-tippy-content="@github_handle"
         ><svg
-            class="h-6 fill-current text-gray-400 hover:text-yellow-400"
+            class="h-6 fill-current text-gray-500 hover:text-yellow-400"
             role="img"
             viewBox="0 0 24 24"
             xmlns="http://www.w3.org/2000/svg"
@@ -33,7 +33,7 @@
 
     <a class="link" href={linkedIn} data-tippy-content="@linkein_handle">
         <svg
-            class="h-6 fill-current text-gray-400 hover:text-yellow-400"
+            class="h-6 fill-current text-gray-500 hover:text-yellow-400"
             role="img"
             viewBox="0 0 24 24"
             xmlns="http://www.w3.org/2000/svg"
@@ -45,7 +45,7 @@
 
     <a class="link" href={insta} data-tippy-content="@instagram_handle"
         ><svg
-            class="h-6 fill-current text-gray-400 hover:text-yellow-400"
+            class="h-6 fill-current text-gray-500 hover:text-yellow-400"
             role="img"
             viewBox="0 0 24 24"
             xmlns="http://www.w3.org/2000/svg"
