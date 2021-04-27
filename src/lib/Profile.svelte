@@ -3,6 +3,7 @@
     import Bio from './Bio.svelte'
     import Button from './Button.svelte'
     import Social from './Social.svelte'
+    import socialData from './socialData.js'
 </script>
 
 <div class="font-mono antialiased text-gray-500 leading-normal tracking-wider ">
@@ -24,8 +25,17 @@
                 <Bio />
 
                 <Button />
-
-                <Social />
+                <div
+                    class="mt-6 pb-16 lg:pb-0 w-4/5 lg:w-full mx-auto flex flex-wrap items-center justify-around"
+                >
+                    {#each socialData as socData}
+                        <Social
+                            socLink={socData.link}
+                            title={socData.title}
+                            vector={socData.svg}
+                        />
+                    {/each}
+                </div>
             </div>
         </div>
 
