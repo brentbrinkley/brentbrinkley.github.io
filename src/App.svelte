@@ -1,10 +1,9 @@
 <script>
-    import logo from './assets/svelte.png'
-    import Profile from './lib/Profile.svelte'
+  import Profile from './lib/Profile.svelte'
 </script>
 
 <main>
-    <Profile />
+  <Profile />
 </main>
 
 <style>
